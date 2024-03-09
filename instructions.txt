@@ -1,0 +1,25 @@
+PROGRAM # 1
+A.
+Install the latest python and visual studio code / pycharm
+
+B.
+Hanap kayo ng any existing python project sa youtube na interesting para sa inyo. 
+Gawin nyo yung project tapos pag gumagana na gawan nyo ng demo. No modifications needed.
+Send the demo/link to my messenger today. (Mar 9 until 12mn)
+Add some details on chat kung saan nyo pweding iapply ung natutunan nyo sa project na sinundan nyo.
+
+
+Example:
+Interested akong macontrol ang mouse pointer gamit ang mata.
+https://www.youtube.com/watch?v=k3PcVruvZCs
+Idea: Matututunan ko kng pano itrack ang mata ng gumagamtit  ng computer.
+Pwede kong iapply yun para gumawa ng program na magmomonitor ng nago-online exam.
+Malalaman ng program kng inaalis ng nagiexan ang mata nya sa monitor.
+
+
+MODIFIED INSTRUCTIONS USING ENGLISH LANGUAGE
+# Find any interested existing python project in YouTube. Follow the instructions or the code presented on the video. 
+# Then after imitating the code, run it to test if it works. After that, create a demo.
+# A demo that will explain a little bit about the code you've imitate from someone or on YouTube.
+# No need to modify
+# Add some details, wherein where you can apply the knowledge you have gain by following the video, or where can be your program can be applied or the benefits of it.

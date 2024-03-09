@@ -1,0 +1,8 @@
+A Pomodoro timer is a time management technique that divides work into intervals of 25 minutes, 
+separated by short breaks. Generally, this technique can be applied whenever someone or a group of
+people who are in work or studying, which it specifically aids people to improve their focus and 
+productivity by dividing work into manageable, timed intervals with built-in breaks to prevent burnout.
+In connection with this, the strict time constraints can instill a sense of urgency, allowing individuals
+ to concentrate and complete tasks more efficiently. Moreover, other benefits of using a pomodoro timer are 
+ reduced procrastination, enhanced productivity, task completion, mindfulness and well-being, improved time 
+ estimation, adaptability to different tasks, and being able to structure his/her/their time management.
